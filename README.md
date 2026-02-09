@@ -163,11 +163,3 @@ http://localhost:5173
 * **Contract & compliance summarization**
 * **Interactive analytics dashboard**
 * **Cloud deployment with scalable AI inference**
-
----
-
-## Author
-
-**Abhishek**
-AI & Full-Stack Developer
-Focused on **Legal AI, NLP, and intelligent document processing**.
